@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Sinh Nhật Vui Vẻ Nha Cu',
     btnIntro: '^^Nhấn Vô^^',
     title: 'Khịa nhau bớt đi – happy birthday. Em gái sinh nhật vui nha, hạnh phúc. Thành công hơn trong công việc, ngọt ngào hơn trong tình yêu. Vuông tròn hạnh phúc.',
-    desc: 'Câu trên copy trên mạng đấy :)))) Nghe Thích Lắm Chứ gì . Thử bấm không xem ',
+    desc: 'Câu trên copy trên mạng đấy :))) Nghe Thích Lắm Chứ gì . Thử bấm không xem ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Ghi số tiền bạn muốn được nhận <3',
